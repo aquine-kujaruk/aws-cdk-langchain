@@ -4,3 +4,11 @@
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# environment
+.env
+
+# diagrams
+diagram/
+diagram.dot
+diagram.png
